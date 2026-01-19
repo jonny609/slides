@@ -12,7 +12,7 @@ Date: 17/12/2025
 # Slide 3: About Me
 - I am a 20-year-old guy, born in Madrid, Spain, and currently on Erasmus in Warsaw, Poland
 ## Slide 3.1
-![Image](images/Spain_Poland.jpg)
+![Image](images2/Spain_Poland.jpg)
 
 ---
 
@@ -24,13 +24,13 @@ Here are some of my hobbies:
  - Tennis: I also like tennis, some years ago I used to train and play games but now I just watch it on TV
  - Travelling: I love travelling around the world and the last two years I have visited a lot of countries around Europe and I have also been in Morocco and Dominican Republic
 ## Slide 4.1
-![Image](images/hobbies.jpg)
+![Image](images2/hobbies.jpg)
 
 ---
 
 # Slide 5: Languages
 Here are the languages I know:
-![Image](images/languages.jpg)
+![Image](images2/languages.jpg)
 ## Slide 5.1
  - English: I have a C1 level of english and I have been learning it since I was a kid
  - French: I do not have an oficial level of frenc but I learned it in school and I know the minimum to have a conversation
@@ -43,4 +43,4 @@ Here are the different sports I have practiced:
  - Soccer: I never practiced it in a club but I played a lot in school and I still go to play with my friends on weekends
  - Tennis: I practiced it for 5 years but I stopped because I have a problem with my shoulder that prevents me from playing.
  - Swimming: I practiced it when I was in school but I did not liked it so I never practiced it again
- ![Image](images/soccer.jpg)
+ ![Image](images2/soccer.jpg)
